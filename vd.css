@@ -2,7 +2,6 @@ body{
     margin: 0;
     padding: 0;
     background-image: url(500.jpg);
-    box-sizing: border-box;
 }
 .A1{
     color: white;
