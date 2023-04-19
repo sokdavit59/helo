@@ -3,9 +3,6 @@ body{
     padding: 0;
     background-image: url(500.jpg);
     box-sizing: border-box;
-    background-repeat: repeat;
-    background-size: cover;
-    background-attachment: fixed;
 }
 .A1{
     color: white;
