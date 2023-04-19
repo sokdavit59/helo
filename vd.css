@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(500.jpg);
+    box-sizing: border-box;
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.A1{
+    color: white;
+    font-size: 40px;
+    font-family: 'Lobster', cursive;
+}
